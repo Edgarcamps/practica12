@@ -1,5 +1,5 @@
 # Introducción a las Ciencias de la Computación
-## Práctica11
+## Práctica12
 El objetivo de esta práctica es que el alumno ejercite la de aplicación y uso de las excepciones en java.
 
 ## Equipo #(Numero) 
